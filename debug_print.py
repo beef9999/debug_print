@@ -91,3 +91,4 @@ def _dprint_options(func_name, args):
             ret_str += repr(i) + ', '
     print color_scheme_beginning, current_time_str(), frame_info_str(args)
     print ret_str, color_scheme_end
+
